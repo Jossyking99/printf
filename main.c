@@ -4,6 +4,7 @@
 
 /**
  * main - Entry point
+ * by Joseph and Ciny
  *
  * Return: Always 0
  */
